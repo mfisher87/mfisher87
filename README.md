@@ -6,6 +6,8 @@
 - 📫 How to reach me: mfisher87@gmail.com
 - 😄 Pronouns: He
 - 📄 [Visit my profile site](https://mfisher87.github.io)
+- 🔧 Maintaining open source projects:
+    - [conda-forge/quarto-feedstock](https://github.com/conda-forge/quarto-feedstock) 
 
 <!--
 - 🌱 I’m currently learning ...
