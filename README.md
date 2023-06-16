@@ -26,7 +26,7 @@
     - 🎵 Making music! I'm most interested in unplanned, collaborative live composition.
 - 🔧 Maintaining open source projects:
     - 🌈 [matplotlib/viscm](https://github.com/matplotlib/viscm): Community-owned software for creating and evaluating high-quality scientific colormaps.
-    - 📦 [conda-forge/viscm-feedstock](https://github.com/conda-forge/viscm-feedstock]: Community-owned recipe for packaging `viscm` for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
+    - 📦 [conda-forge/viscm-feedstock](https://github.com/conda-forge/viscm-feedstock): Community-owned recipe for packaging `viscm` for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
     - 📦 [conda-forge/quarto-feedstock](https://github.com/conda-forge/quarto-feedstock): Community-owned recipe for packaging [Quarto](https://quarto.org/) for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager)) 
 
 <!--
