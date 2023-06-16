@@ -19,10 +19,11 @@
 #### Work with me
 
 - 👯 I’m looking to collaborate on:
-    - Starting a revenue-sharing co-operative for scientific, community-driven, and community-owned software development and teaching organization.
-    - An open harware/software organ/synth/piano: https://github.com/mfisher87/open-organ
-    - A tool to reduce friction getting started working on open source projects: https://github.com/mfisher87/fork-n-work
-    - An open-hardware design for a piezo "kick drum" like Meinl's analog stomp box. Should be extremely basic.
+    - 👐 Starting a revenue-sharing co-operative for scientific, community-driven, and community-owned software development and teaching organization.
+    - 🎹 An open harware/software organ/synth/piano: https://github.com/mfisher87/open-organ
+    - ⚡ A tool to reduce friction (especially clicking in GUIs) getting started working on open source projects: https://github.com/mfisher87/fork-n-work
+    - 🦵 An open-hardware design for a piezo "kick drum" like Meinl's analog stomp box. Should be extremely basic.
+    - 🎵 Making music! I'm most interested in unplanned, collaborative live composition.
 - 🔧 Maintaining open source projects:
     - 🌈 [matplotlib/viscm](https://github.com/matplotlib/viscm): Community-owned software for creating and evaluating high-quality scientific colormaps.
     - 📦 [conda-forge/viscm-feedstock](https://github.com/conda-forge/viscm-feedstock]: Community-owned recipe for packaging `viscm` for [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager))
