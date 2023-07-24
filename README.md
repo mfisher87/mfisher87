@@ -2,12 +2,14 @@
 
 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
 
+📄 [Please visit my profile site and fledgling blog!](https://mfisher87.github.io)
+
+
 #### More about me
 
 - 😄 Pronouns: He
 - 🏢 My work GitHub account: [@MattF-NSIDC](https://github.com/MattF-NSIDC)
 - 🧪 [My ORCID](https://orcid.org/0000-0003-3260-5445)
-- 📄 [My profile site](https://mfisher87.github.io)
 - ⚡ Fun fact: I'm not very good, but enjoy playing a few musical instruments: 🥁 🎹 🎸
 - 📫 How to reach me:
     - `mfisher87` on [Scientific Python Discord](https://scientific-python.org/community/#discord-server)
