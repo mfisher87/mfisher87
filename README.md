@@ -1,5 +1,8 @@
 ### Matt Fisher, Software Developer @ NSIDC
 
+> :warning: I have two GitHub profiles! See my work profile
+> [@MattF-NSIDC](https://github.com/MattF-NSIDC)
+
 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
 
 📄 [Please visit my profile site and fledgling blog!](https://mfisher87.github.io)
@@ -8,7 +11,6 @@
 #### More about me
 
 - 😄 Pronouns: He
-- 🏢 My work GitHub account: [@MattF-NSIDC](https://github.com/MattF-NSIDC)
 - 🧪 [My ORCID](https://orcid.org/0000-0003-3260-5445)
 - ⚡ Fun fact: I'm not very good, but enjoy playing a few musical instruments: 🥁 🎹 🎸
 - 📫 How to reach me:
