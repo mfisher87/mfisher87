@@ -4,6 +4,7 @@
 > [@MattF-NSIDC](https://github.com/MattF-NSIDC)
 
 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
+📖 I'm currently reading [Engaging Emergence by Peggy Holman](https://peggyholman.com/papers/engaging-emergence)
 
 📄 [Please visit my profile site and fledgling blog!](https://mfisher87.github.io)
 
