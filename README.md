@@ -24,6 +24,7 @@
 
 #### Work with me
 
+- 🎓 [Certified Carpentries instructor](https://carpentries.org/instructors/)
 - 👯 I’m looking to collaborate on:
     - 👐 Starting a revenue-sharing co-operative for scientific, community-driven, and community-owned software development and teaching organization.
     - 🎹 An open harware/software organ/synth/piano: https://github.com/mfisher87/open-organ
