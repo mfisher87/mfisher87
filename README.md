@@ -1,7 +1,8 @@
 ### Matt Fisher, Software Developer @ NSIDC
 
-> :warning: I have two GitHub profiles! See my work profile
-> [@MattF-NSIDC](https://github.com/MattF-NSIDC)
+> :warning: Until late 2023, I used two GitHub profiles. **This is now my primary
+> profile**. You can find a significant amount of my prior work in my inactive
+> [@MattF-NSIDC](https://github.com/MattF-NSIDC) account.
 
 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
 
