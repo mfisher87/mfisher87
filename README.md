@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I'm not very good, but enjoy playing a few musical instruments: 🥁 🎹 🎸
 - 📫 How to reach me:
     - `mfisher87` on [Scientific Python Discord](https://scientific-python.org/community/#discord-server)
-    - Slack: `NSIDC`, `EOSDIS`, `Openscapes`, `CryosphereCloud` (CryoCloud), `regolith-linux`,
+    - Slack: `NSIDC`, `EOSDIS`, `USRSE`, `Carpentries`, `TheCSCCE`, `Openscapes`, `CryosphereCloud` (CryoCloud), `regolith-linux`
     - Element: `conda-forge`
     - mfisher87@gmail.com
 
