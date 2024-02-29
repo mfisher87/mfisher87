@@ -1,8 +1,14 @@
 ### Matt Fisher, Software Developer @ NSIDC
 
-> :warning: Until late 2023, I used two GitHub profiles. **This is now my primary
+> [!IMPORTANT]
+>
+> Until late 2023, I used two GitHub profiles. **This is now my primary
 > profile**. You can find a significant amount of my prior work in my inactive
 > [@MattF-NSIDC](https://github.com/MattF-NSIDC) account.
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfisher87&count_private=true&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mfisher87&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
 
