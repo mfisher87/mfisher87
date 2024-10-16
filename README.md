@@ -1,4 +1,4 @@
-### Matt Fisher, Software Developer @ NSIDC
+### Matt Fisher, Software Developer @ UC Berkeley Schmidt Center for Data Science & Environment
 
 > [!IMPORTANT]
 >
