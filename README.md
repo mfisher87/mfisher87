@@ -32,7 +32,7 @@
 #### Work with me
 
 - 🎓 [Certified Carpentries instructor](https://carpentries.org/instructors/)
-- 🧑‍🤝‍🧑 [Community Engagmenet Fundamentals certification](https://api.badgr.io/public/assertions/l7mri8KxQGqzU1BcDXdSbQ?identity__email=matt.fisher%40berkeley.edu)
+- 🧑‍🤝‍🧑 [Community Engagement Fundamentals certification](https://api.badgr.io/public/assertions/l7mri8KxQGqzU1BcDXdSbQ?identity__email=matt.fisher%40berkeley.edu)
 - 👯 I’m looking to collaborate on:
     - 👐 Starting a revenue-sharing co-operative for scientific, community-driven, and community-owned software development and teaching organization.
     - 🎹 An open harware/software organ/synth/piano: https://github.com/mfisher87/open-organ
